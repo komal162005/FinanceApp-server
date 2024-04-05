@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c3ca0b80-3912-40be-b1ab-f494296adf92" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/otherScreens/EditProfileScreen.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otherScreens/FPass.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otherScreens/ImportExport.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otherScreens/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otherScreens/ResetPassCom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/.env" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/JavaDB/new.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/JavaDB/new.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/JavaDB/newData.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/JavaDB/newData.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/LInfo/users.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/LInfo/users.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/NewDB/col1.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/NewDB/col1.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/NewDB/data.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/NewDB/data.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/PYmongoDB/info.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/PYmongoDB/info.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/admin/system.version.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/admin/system.version.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/backup/stud.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/backup/stud.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/data.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/data.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/new.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/new.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/practice.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/practice/practice.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/test/users.bson" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/dump/test/users.metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/middleware/AuthToken.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/models/User.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-ked/routes/AuthRoute.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screenshots" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Styles.style.js" beforeDir="false" afterPath="$PROJECT_DIR$/Styles.style.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compo/BG.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/otherScreens/BackupRecovery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Budget.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Budget.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Expense.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Expense.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Goal.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Goal.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Home.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Home.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Income.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Income.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screens/TaxR.js" beforeDir="false" afterPath="$PROJECT_DIR$/screens/TaxR.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2eXnuaWnyjDX81bi1RoUMVfwuiQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3ca0b80-3912-40be-b1ab-f494296adf92" name="Changes" comment="" />
+      <created>1712060050996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712060050996</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
